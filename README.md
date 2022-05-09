@@ -1,2 +1,0 @@
-# hns.owners
-hns.owners
